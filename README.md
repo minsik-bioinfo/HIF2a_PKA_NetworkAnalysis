@@ -8,7 +8,10 @@
 
 The RNA-seq data ("raw" and "processed") of this study has been deposited in the Gene Expression Omnibus (GEO) database, [[GSE179385]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179385)
 
-
+## Usage
+```
+bash src/
+```
 ##### *About path*
 
 
