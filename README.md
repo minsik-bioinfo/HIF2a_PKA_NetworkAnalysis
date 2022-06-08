@@ -26,7 +26,9 @@ result_dir/deseq_result/coldKO_coldwt.deseq_0.2 : DEG analysis result between co
 
 result_dir/deseq_result/coldKO_coldwt.deseq_0.2_up : Up-regulated gene list in coldKO samples with above thresholds.
 
-result_dir/network_result/
+result_dir/network_result/NP_Centrality_FC.tsv : This file contains network propagation score, centrality score, and fold change of thermogenesis related genes in the network. 
+
+result_dir/network_result/0.2_up_down_string_network_deseq_550 : Protein-protein interaction network of DEGs with above thresholds.
 
 ## Contact
 oominsik@gmail.com
