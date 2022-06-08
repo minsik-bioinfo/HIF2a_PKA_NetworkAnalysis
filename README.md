@@ -19,5 +19,13 @@ bash src/start.sh
 
 ---
 
+## Result files
+
+result_dir/deseq_result/coldKO_coldwt.deseq : DEG analysis result between coldKO and coldwt samples.
+result_dir/deseq_result/coldKO_coldwt.deseq_0.2 : DEG analysis result between coldKO and coldwt samples with the significance thresholds were |log2FC | > 0.2 and P < 0.15.
+result_dir/deseq_result/coldKO_coldwt.deseq_0.2_up : Up-regulated gene list in coldKO samples with above thresholds.
+
+result_dir/network_result/
+
 ## Contact
 oominsik@gmail.com
