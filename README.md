@@ -10,8 +10,10 @@ The RNA-seq data ("raw" and "processed") of this study has been deposited in the
 
 ## Usage
 ```
-bash src/
+bash src/start.sh
 ```
+---
 ##### *About path*
-
+The path is detected automatically in the script code, but if there is a problem, you have to manually modify the "base" variable to your own path.
+---
 
